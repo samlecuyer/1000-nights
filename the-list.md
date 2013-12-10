@@ -21,7 +21,7 @@ Start with [Shakespeare](http://en.wikipedia.org/wiki/William_Shakespeare), [Fro
 - "Aubade" [link](http://www.poemhunter.com/poem/aubade-2/)
 
 ## Essays
-Start with [Huxley](http://en.wikipedia.org/wiki/Aldus_Huxley) and [Eiseley](http://en.wikipedia.org/wiki/Loren_Eiseley).
+Start with [Chesterton](https://en.wikipedia.org/wiki/G._K._Chesterton).
 
-#### Huxley
-- 1958 Collected Essays _Appears to be a collection of Huxley essays_ "Wordsworth in the Tropics" [link to pdf on GDrive](https://docs.google.com/file/d/0B1wVj1bO9bocY0x2N0dXNzNkVWc/)
+#### Chesterton
+- A Book of Essays, first published 1931 "All is Grist" [link to text](http://www.cse.dmu.ac.uk/~mward/gkc/books/GKC_All_is_Grist.html)
