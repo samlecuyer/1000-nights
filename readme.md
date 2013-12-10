@@ -11,7 +11,7 @@ In 2001, Ray Bradbury [gave a speech at](http://www.youtube.com/watch?v=_W-r7ABr
 
 1. One short story ([Dahl](http://en.wikipedia.org/wiki/Roald_Dahl), [Hemingway](http://en.wikipedia.org/wiki/Hemingway), [Matheson](http://en.wikipedia.org/wiki/Richard_Matheson), [Cheever](http://en.wikipedia.org/wiki/John_Cheever), [Kneale](http://en.wikipedia.org/wiki/Nigel_Kneale), [Collier](http://en.wikipedia.org/wiki/John_Collier_%28writer%29), [Warton](http://en.wikipedia.org/wiki/Edith_Wharton), [Irving](http://en.wikipedia.org/wiki/Washington_Irving))
 2. One poem ([Shakespeare](http://en.wikipedia.org/wiki/William_Shakespeare), [Frost](http://en.wikipedia.org/wiki/Robert_Frost), [Pope](http://en.wikipedia.org/wiki/Alexander_Pope))
-3. One essay ([Huxley](http://en.wikipedia.org/wiki/Aldus_Huxley), [Eiseley](http://en.wikipedia.org/wiki/Loren_Eiseley))
+3. One essay ([Chesterton](https://en.wikipedia.org/wiki/G._K._Chesterton))
 
 His goal is to make you into a collector of the metaphor -- filling your head with thoughts, theories, and ideas before bed, rather than completing another level in Angry Birds.
 
